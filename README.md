@@ -1,2 +1,2 @@
 # fake-news
-escrever depois
+Repositório criado para estudos de HTML e CSS
